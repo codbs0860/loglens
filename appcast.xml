@@ -3,17 +3,17 @@
     <channel>
         <title>CudoLogLens</title>
         <item>
-            <title>CudoLogLens 1.1</title>
+            <title>CudoLogLens 1.2</title>
             <description><![CDATA[
 <ul>
-<li><b>인앱 업데이트 (Sparkle)</b>: 새 버전이 나오면 앱이 알려주고 창 안에서 바로 설치·재실행됩니다 (하루 1회 자동 확인, 메뉴 CudoLogLens → "업데이트 확인…"으로 즉시 확인 가능). 자동 확인은 설정 → 업데이트에서 끌 수 있습니다.</li>
+<li><b>MCP <code>select_device</code> 도구 추가</b>: Claude Code에서 GUI 앱의 디바이스 드롭다운 선택을 원격으로 변경할 수 있습니다 (수집은 시작하지 않음, 수집 중에는 변경 불가). MCP 도구 12종 → 13종.</li>
 </ul>
             ]]></description>
-            <pubDate>Wed, 02 Sep 2026 02:09:31 +0000</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <pubDate>Thu, 03 Sep 2026 00:53:31 +0000</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/codbs0860/loglens/main/CudoLogLens-1.1.dmg" sparkle:edSignature="qUKnIzAkxYNB23QME5fgipLK8zNdViPFEdttb2F+EXh0K6Qq1nNmRUg9lZ0HVTlc7uSjFITcS/w9znZEMz8cDw==" length="2944354" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/codbs0860/loglens/main/CudoLogLens-1.2.dmg" sparkle:edSignature="7vju4S5S2/1TDTsiHhOVnpUDqBQq5s2+NElEia5/F2JVOV+uPq5NTcrUjqttLjtxJDl0/XyRMbIl0SWK7Bk2Bw==" length="2955044" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

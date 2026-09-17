@@ -13,7 +13,7 @@
             <sparkle:version>1.3</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/themediacudo/loglens/main/CudoLogLens-1.3.dmg" sparkle:edSignature="kQi6+5fkvkd5GuV+sMF9MPeR8NY7VVIMDvcdqcQAD6lWDPcFxBpIwmZbC5VZ8dRBXUXAS90UZy2sd8Fdl+VGCg==" length="2975683" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/codbs0860/loglens/main/CudoLogLens-1.3.dmg" sparkle:edSignature="kQi6+5fkvkd5GuV+sMF9MPeR8NY7VVIMDvcdqcQAD6lWDPcFxBpIwmZbC5VZ8dRBXUXAS90UZy2sd8Fdl+VGCg==" length="2975683" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
